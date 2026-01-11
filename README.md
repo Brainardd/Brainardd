@@ -3,9 +3,13 @@
 # 💫 About Me:
 Computer Science graduate with a focus on AI and full-stack development. I build practical projects and I enjoy turning ideas into working systems.
 
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/johnbrainarddc)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnbrainarddc@gmail.com)
+
+
 
 
 # 💻 Tech Stack:
@@ -30,10 +34,14 @@ Computer Science graduate with a focus on AI and full-stack development. I build
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Brainardd&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Brainardd&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainardd&theme=dark&hide_border=false&layout=compact)
+
+
 
 
 [![](https://visitcount.itsvg.in/api?id=Brainardd&icon=0&color=0)](https://visitcount.itsvg.in)

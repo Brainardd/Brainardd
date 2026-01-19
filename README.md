@@ -34,7 +34,9 @@ Computer Science graduate with a focus on AI and full-stack development. I build
 <br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api?username=Brainardd&theme=dark&hide_border=false)
+<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Brainardd&theme=dark&hide_border=false)
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainardd&theme=dark&hide_border=false&layout=compact)
 
 

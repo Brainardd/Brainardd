@@ -32,12 +32,11 @@ Computer Science graduate with a focus on AI and full-stack development. I build
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 <br/><br/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainardd&theme=dark&hide_border=false&layout=compact)
+<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Brainardd&theme=dark&hide_border=false)
 <br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Brainardd&theme=dark&hide_border=false)
-<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brainardd&theme=dark&hide_border=false&layout=compact)
 
 
 [![](https://visitcount.itsvg.in/api?id=Brainardd&icon=0&color=0)](https://visitcount.itsvg.in)

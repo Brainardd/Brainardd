@@ -40,6 +40,4 @@ Computer Science graduate with a focus on AI and full-stack development. I build
 
 [![](https://visitcount.itsvg.in/api?id=Brainardd&icon=0&color=0)](https://visitcount.itsvg.in)
 
-This is a test
-
 </div>
